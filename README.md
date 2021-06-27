@@ -2,10 +2,10 @@
 
 Todo:
 
-* Autopopulate docker array
-* Make nicer output
-* Check for scrippt updates (see mailcow update.sh script)
-* Get used to NVIM commands or at least calm down when hitting the wrong keys
+* [ ] Autopopulate docker array
+* [ ] Make nicer output
+* [ ] Check for script updates (see mailcow update.sh script)
+* [x] Get used to NVIM commands or at least calm down when hitting the wrong keys
 
 # Versioncontrol:
 
