@@ -39,6 +39,10 @@ check_online_status() {
   return 1
 }
 
+#
+# Use git to test for  
+#
+
 #echo -e "\e[32mChecking for newer update script...\e[0m"
 #SHA1_1=$(sha1sum update.sh)
 #git fetch origin #${BRANCH}
