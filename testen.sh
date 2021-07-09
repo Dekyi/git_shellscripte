@@ -1,9 +1,5 @@
-#!/usr/bin/env bash
-#
-# 
-shopt -s nullglob
- dockerdir=(dirname "$(find . -maxdepth 2 | grep ^'docker-compose.y*')")
+#!/bin/bash
 
-for dir in "${dockerdir[@]}"; do
-   echo "$dir"
-done
+mapfile -t dockerdir < <( dirname $(find . -maxdepth 2 | grep 'docker-compose.yml' ))
+
+printf "%s\n" "${dockerdir[@]}"
