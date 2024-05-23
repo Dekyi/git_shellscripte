@@ -15,8 +15,9 @@ Todo:
 
 # Version control:
 
+23.05.24: Added the "no autoupdate" function for mailcow
 03.07.21: testing branch started to play around  
 15.06.21: first version with basic function  
-23.05.24: Added the "no autoupdate" function for mailcow
+
 
 * Yes, I know watchtower :)
