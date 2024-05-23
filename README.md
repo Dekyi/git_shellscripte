@@ -13,7 +13,7 @@ Todo:
 * [ ] create cleaner output
 * [x] Get used to NVIM commands or at least calm down when hitting the wrong keys
 
-# Versioncontrol:
+# Version control:
 
 03.07.21: testing branch started to play around  
 15.06.21: first version with basic function  
